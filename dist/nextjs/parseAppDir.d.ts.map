@@ -1,0 +1,1 @@
+{"version":3,"file":"parseAppDir.d.ts","sourceRoot":"","sources":["../../src/nextjs/parseAppDir.ts"],"names":[],"mappings":"AAKA,OAAO,EAAE,KAAK,EAAE,MAAM,iBAAiB,CAAA;AAEvC,eAAO,MAAM,aAAa,WAChB,MAAM,cACF,MAAM,GAAG,SAAS,0BAEpB,MAAM,WAc6C,CAAA;AAE/D,eAAO,MAAM,WAAW,UACf,MAAM,UACL,MAAM,cACF,MAAM,GAAG,SAAS;aAClB,MAAM,EAAE;UAAQ,MAAM;CAmHnC,CAAA"}
